@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/siddharth-tayal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/siddharthtayal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:stayal12345@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.geeksforgeeks.org/profile/siddharth_tayal"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
   <a href="https://www.zenithratech.com"><img src="https://img.shields.io/badge/ZenithraTech-1f2937?style=for-the-badge&logoColor=white" alt="Website"></a>
